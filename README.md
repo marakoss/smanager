@@ -1,0 +1,4 @@
+smanager
+========
+
+Snippet Manager
